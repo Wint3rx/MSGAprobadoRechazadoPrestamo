@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSGAprobadoRechazadoPrestamo", "MSGAprobadoRechazadoPrestamo\MSGAprobadoRechazadoPrestamo.csproj", "{BD8E7975-3724-420E-883F-7A926EFB8B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8E7975-3724-420E-883F-7A926EFB8B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8E7975-3724-420E-883F-7A926EFB8B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8E7975-3724-420E-883F-7A926EFB8B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8E7975-3724-420E-883F-7A926EFB8B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FABE4EC-0C1A-4315-881E-7C1DBECD46D2}
+	EndGlobalSection
+EndGlobal
